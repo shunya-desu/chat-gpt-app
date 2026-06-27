@@ -1,5 +1,7 @@
 # Nuxt UI Minimal Starter
 
+入札情報サービスの参画の際にNuxtキャッチアップ証明で作ってみた
+
 Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
 
 ## Setup
